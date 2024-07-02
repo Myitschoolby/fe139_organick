@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.testimonal {
+  background: url(/images/testimonial_bcg.png);
+}
+
+.testimonial__rate {
+  background: url("/images/testimonial_rate.png");
+}
